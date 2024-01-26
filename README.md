@@ -11,3 +11,5 @@ Show Modal with Javascript
 Open the index.html file in any browser.
 
 <img src="https://github.com/krkmzugur/show-modal-js/blob/main/screenshoot.gif?raw=true">
+
+Days with lots of code.
